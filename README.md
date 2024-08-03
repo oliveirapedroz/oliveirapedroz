@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, bem-vindos ao meu Hub 👋
 
 <!--
 **oliveirapedroz/oliveirapedroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sou Pedro e estou testando essa rede
+Me chamo Pedro e sou da área de negócios, trabalhando hoje com Recursos Humanos e Gestão de Pessoas. Estou me aventurando em Data Analytics para aprimorar minha atuação na minha área, que pode conversar bastante com a análise de dados.
